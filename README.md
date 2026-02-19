@@ -1,4 +1,4 @@
-# Telegram PayMe Red Packet Hunter
+# TG-payme-redpacket-hunter-aggressive.py
 
 **Open-source Telegram bot/script to automatically detect and claim PayMe lucky money / red packet links shared in public groups or channels.**
 
@@ -33,7 +33,7 @@ Success heavily depends on:
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tg-payme-redpacket-hunter.git
+   git clone https://github.com/YOUR_USERNAME/tg-payme-redpacket-hunter-aggressive.git
    cd tg-payme-redpacket-hunter
       ```
 2. Install dependencies
