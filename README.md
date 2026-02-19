@@ -41,7 +41,7 @@ Success heavily depends on:
 pip install -r requirements.txt
 playwright install
 ```
-3.Create .env file from example
+3.Create .env file from example (Important ! Set up this file ! ) 
 ```bash
 cp .env.example .env
 ```
@@ -64,7 +64,7 @@ tgcrypto
 python-dotenv
 playwright
 ```
-.env.example
+## .env.example (Remember!) 
 ```
 # Get API_ID and API_HASH from https://my.telegram.org
 API_ID=
