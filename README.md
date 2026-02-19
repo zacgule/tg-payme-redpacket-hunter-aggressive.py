@@ -1,4 +1,4 @@
-# TG-payme-redpacket-hunter-aggressive.py
+#  Telegram PayMe RedPacket Hunter Aggressive
 
 **Open-source Telegram bot/script to automatically detect and claim PayMe lucky money / red packet links shared in public groups or channels.**
 
