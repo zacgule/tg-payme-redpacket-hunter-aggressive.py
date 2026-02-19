@@ -87,4 +87,12 @@ Better button selectors for PayMe pages
 Proxy rotation support
 Notification when a packet is claimed (e.g., Telegram message to yourself)
 
+## Important ! Dislciamer ! Realistic Expectation !
+
+No proxy, single session → 3–12% hit rate in busy groups
+4–8 sessions + good residential rotating proxies → 18–45% in very active Lunar New Year groups
+Above 50% consistently → only possible with private browser farms, 100+ sessions, ML-based behavior mimicry, custom anti-fingerprint patches — not public code.
+
+This is the ceiling for what you can realistically run and maintain yourself in 2026 without serious money behind it. So I provide a framework here , hopefully this helps
+
 ## Happy hunting — and good luck grabbing those red packets! 🧧
