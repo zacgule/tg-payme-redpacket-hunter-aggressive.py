@@ -53,7 +53,7 @@ SESSION_NAME=payme_hunter
 ```
 4. Run the script
 ```
-python payme_hunter_tg.py
+python tg-payme-redpacket-hunter-aggressive.py
 ```
 First run: Enter your phone number + Telegram login code
 Join public groups/channels where PayMe red packets are shared
